@@ -3,7 +3,6 @@
  *        \file  men_uart_ctrl.c
  *
  *      \author  andreas.werner@men.de
- *        $Date: 2013/12/18
  *
  *        \brief Tool to switch between the UART modes for legacy serial I/O
  *                 interfaces in MEN box PCs, FPGA-controlled.
